@@ -1,5 +1,5 @@
 [project]
-name = "line-scanner-simulator"
+name = "document-scanner-simulator"
 version = "0.1.0"
 description = "Simulates the effects of a line scanner to images/document processing by providing a point spread function/optical transfer function and applying it line by line to an image"
 authors = [
